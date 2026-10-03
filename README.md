@@ -2,7 +2,9 @@
 
 # Sarthak Giri
 
-**MERN stack developer** building software for clinics, shops, and campuses — the kind of tools people use every day, not demo todos.
+**Junior Full-Stack Developer (MERN)** — clinic queues, shop ledgers, and campus tools in React, Node, Express, and MongoDB.
+
+Open to internships and junior MERN roles.
 
 [LinkedIn](https://www.linkedin.com/in/sarthak-giri-117490296) · [GitHub](https://github.com/akksj)
 
@@ -10,40 +12,27 @@
 
 ---
 
-### Right now
+I build small-business software for places that still run on paper: neighborhood clinics, kirana counters, and college departments.
 
-- Building **[MediQ Clinic](https://github.com/akksj/mediq-clinic)** — appointments + live token queue for neighborhood doctors
-- Building **[Udhaar Khata](https://github.com/akksj/udhaar-khata)** — inventory, billing, and credit ledger for kirana stores
-- Maintaining **[College Timetable Generator](https://github.com/akksj/timetable-generator-php-mysql-)** (PHP/MySQL) and planning a MERN rewrite
+### Featured work
 
-### Stack I am hiring-ready on
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [MediQ Clinic](https://github.com/akksj/mediq-clinic) | Online appointments, walk-in token queue, doctor desk, patient history. JWT roles for patient, reception, and doctor. | MongoDB, Express, React, Node |
+| [Udhaar Khata](https://github.com/akksj/udhaar-khata) | Inventory, mixed paid + credit bills, customer running balance, low-stock alerts. | MongoDB, Express, React, Node |
+| [College Timetable Generator](https://github.com/akksj/timetable-generator-php-mysql-) | Clash-free timetable so a teacher or room is not booked twice. PHP prototype; MERN rewrite planned. | PHP, MySQL |
 
-**Frontend:** React, JavaScript, HTML, CSS  
-**Backend:** Node.js, Express  
+### Stack
+
+**Frontend:** React (Vite), JavaScript, HTML, CSS  
+**Backend:** Node.js, Express, REST, JWT  
 **Database:** MongoDB, MySQL  
-**Also used:** PHP, Git, REST APIs, JWT auth
+**Also used:** PHP, Git
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,mysql,php,git,vscode" alt="Tech stack" />
 </p>
 
-### Featured work
+Both MERN apps run locally today. SMS reminders, prescription PDFs, and a live deploy are next — not claimed as done.
 
-| Project | Real-life problem | Stack |
-| --- | --- | --- |
-| [mediq-clinic](https://github.com/akksj/mediq-clinic) | Clinics mix walk-ins and booked patients on paper tokens | MongoDB, Express, React, Node |
-| [udhaar-khata](https://github.com/akksj/udhaar-khata) | Kirana shops still track udhaar in a notebook | MongoDB, Express, React, Node |
-| [timetable-generator-php-mysql-](https://github.com/akksj/timetable-generator-php-mysql-) | Colleges waste hours building clash-free timetables | PHP, MySQL |
-
-### How I work
-
-I prefer projects with a clear user, a painful workflow, and a database that has to stay consistent. That is why the new repos model roles, stock, balances, and appointment clashes instead of generic CRUD.
-
-### GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akksj&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akksj&layout=compact&theme=transparent" alt="Top languages" />
-</p>
-
-Open to internships and junior MERN roles. If you run a clinic, shop, or campus tool and want it on the web — open an issue on either MERN repo.
+Open to internships and junior MERN roles in India or remote. If you run a clinic, shop, or campus tool and want it on the web, open an issue on either MERN repo.
